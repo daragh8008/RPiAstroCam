@@ -1,4 +1,4 @@
-# astropicam
+# RPiAstroCam
 A simple Camera App for cmdline astrophotography
 
 
